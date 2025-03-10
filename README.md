@@ -20,7 +20,7 @@ Built for people who love the concept of Obsidian -- a simple, markdown-based no
 ## See it in action
 
 <video width="640" height="360" controls>
-  <source src="https://github.com/obsidian.nvim/repository/raw/main/doc/assets/obsidian-nvim.webm" type="video/webm">
+  <source src="./doc/assets/obsidian-nvim.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 
